@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.4b4979a4.css",
-    "main.js": "/static/js/main.a0d0257d.js",
-    "static/js/787.9c636204.chunk.js": "/static/js/787.9c636204.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.da2c6986bd30d1b6da880cf172383fcd.svg",
-    "index.html": "/index.html",
-    "main.4b4979a4.css.map": "/static/css/main.4b4979a4.css.map",
-    "main.a0d0257d.js.map": "/static/js/main.a0d0257d.js.map",
-    "787.9c636204.chunk.js.map": "/static/js/787.9c636204.chunk.js.map"
+    "main.css": "/bolt-page/static/css/main.4b4979a4.css",
+    "main.js": "/bolt-page/static/js/main.0cecbe6c.js",
+    "static/js/787.9c636204.chunk.js": "/bolt-page/static/js/787.9c636204.chunk.js",
+    "static/media/logo.svg": "/bolt-page/static/media/logo.da2c6986bd30d1b6da880cf172383fcd.svg",
+    "index.html": "/bolt-page/index.html",
+    "main.4b4979a4.css.map": "/bolt-page/static/css/main.4b4979a4.css.map",
+    "main.0cecbe6c.js.map": "/bolt-page/static/js/main.0cecbe6c.js.map",
+    "787.9c636204.chunk.js.map": "/bolt-page/static/js/787.9c636204.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b4979a4.css",
-    "static/js/main.a0d0257d.js"
+    "static/js/main.0cecbe6c.js"
   ]
 }
